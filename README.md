@@ -52,4 +52,4 @@ All categorical?
 ◦ Kmeans or Hclust will work
 ◦ Can also do K-modes
 Mixture?
-◦ Use Gower metric
+◦ Use Gower metric 
